@@ -1,0 +1,3 @@
+C:/Users/Scout/IdeaProjects/CSCI265Homework6/cpp/cmake-build-debug/CMakeFiles/cpp.dir
+C:/Users/Scout/IdeaProjects/CSCI265Homework6/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Scout/IdeaProjects/CSCI265Homework6/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
